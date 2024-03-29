@@ -1,0 +1,31 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    width: 250px;
+    height: 250px;
+    border: 2px solid black;
+    box-shadow:2px 2px black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Task{
+    text-align: center;
+    
+}
+button{
+    color: black;
+}
+button:hover{
+    background-color: rgb(113, 177, 207);
+}
+input{
+    width: 250px;
+    height: 40px;
+    border: 2px solid black;
+    text-align: center;
+    font-size: large;
+}
